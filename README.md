@@ -7,8 +7,7 @@ Instance for the MLCLSPSB
 
 **Cap**  : The data of the capacity of each resource in each period. The data format is as follow: 
 $$
-[C_{t_{1},r_{1}},C_{t_{2},r_{1}},\ldots,C_{T,r_{1}}]\\
-\vdots \\
+[C_{t_{1},r_{1}},C_{t_{2},r_{1}},\ldots,C_{T,r_{1}}]\\ \vdots \\
 [C_{t_{1},R},C_{t_{2},R},\ldots,C_{T,R}]
 $$
 
