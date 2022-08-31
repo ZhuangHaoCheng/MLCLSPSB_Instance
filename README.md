@@ -12,14 +12,12 @@ $$
 [C_{t_{1},R},C_{t_{2},R},\ldots,C_{T,R}]
 $$
 
-
-**Production_Time** : The data of the production time of each resource needed for the production of each item. 
+**Production_Time** : The data of the production time of each resource needed for the production of each item. The data format is as follow:
 $$
 [q_{i_{1},r_{1}},q_{i_{2},r_{2}},\ldots,q_{N,r_{1}}]\\
 \vdots \\
 [q_{i_{1},R},q_{i_{2},R},\ldots,q_{N,R}]
 $$
-
 
 **Order_Delay_TimeLimit** : The data of  the backorder time limitation of each item in each period. The data format is as follow: 
 $$
@@ -59,7 +57,6 @@ $$
 $$
 [i,j,r_{ij},q_{ij}^{s}]
 $$
- 
 
 
 
