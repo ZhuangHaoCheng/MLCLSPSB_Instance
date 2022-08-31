@@ -15,7 +15,7 @@ $$[L_{i_{1},t_{1}},L_{i_{2},t_{1}},...,L_{i_{N},t_{1}} ]$$
 $$\vdots$$
 $$[L_{i_{1},t_{T}},L_{i_{2},t_{T}},...,L_{i_{N},t_{T}}]$$
 **Demand** : The data of the demand of each item in each period. The data format is as follow: 
-$$[[d_{i_{1},t_{1}},d_{i_{1},t_{2}},\ldots,d_{i_{1},T}],d_{i_{2},t_{1}},d_{i_{2},t_{2}},\ldots,d_{i_{2},T}],\ldots,[d_{N,t_{1}},d_{N,t_{2}},\ldots,d_{N,T}]]$$
+$$[[d_{i_{1},t_{1}},d_{i_{1},t_{2}},\ldots,d_{i_{1},T}],[d_{i_{2},t_{1}},d_{i_{2},t_{2}},\ldots,d_{i_{2},T}],\ldots,[d_{N,t_{1}},d_{N,t_{2}},\ldots,d_{N,T}]]$$
 **Setup_Time** : The data of the setup time of each item in each resource. The data format is as follow: 
 $$[st_{i_{1},r_{1}},st_{i_{2},r_{1}},\ldots,st_{N,r_{1}}]$$
 $$\vdots$$
